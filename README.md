@@ -19,3 +19,9 @@ and accessed from http://127.0.0.1:8000/ . A new user can be created at http://1
 ```python
 python -m ml_model.regressor
 ```
+
+## Design Choices
+
+Here are some design decisions I took:
+
+*testing
