@@ -8,7 +8,14 @@ After installing from requirements.txt in root with
 pip install -r requirements.txt
 ```
 
-the server can be run with
+some initial setup is required with
+
+```bash
+python manage.py makemigrations
+python manage.py migrate
+```
+
+The server can now be run with
 
 ```python
 python manage.py runserver
