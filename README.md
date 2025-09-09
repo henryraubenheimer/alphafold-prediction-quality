@@ -4,7 +4,7 @@ Welcome to my AlphaFold Prediction tool!
 
 After installing from requirements.txt with 
 
-'''
+```
 bash
 pip install -r requirements.txt
-'''
+```
